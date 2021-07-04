@@ -1,0 +1,11 @@
+.vs/
+Win32/*
+x64/*
+*/Win32/*
+*/x64/*
+*.exe
+*.aps
+*.user
+Yahtzee/config.txt
+Yahtzee/highscores.bin
+Yahtzee/log.txt
