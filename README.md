@@ -1,6 +1,6 @@
 # Yahtzee
 
-## Copyright (c) 2007, All rights reserved
+## Copyright (c) 2006, All rights reserved
 
 ### Damian Coventry
 
