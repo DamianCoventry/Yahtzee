@@ -14,3 +14,4 @@ This is an implementation of the classic dice game Yahtzee. It can be played ove
 ![In game](/Screenshot1.png "In game")
 ![In game](/Screenshot2.png "In game")
 ![In game](/Screenshot3.png "In game")
+![In game](/Screenshot4.png "In game")
